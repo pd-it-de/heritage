@@ -1,0 +1,9 @@
+ul.nav {
+    list-style: none;
+    height: 40px;
+}
+ul.nav li {
+    padding: 10px;
+    float: left;
+}
+
